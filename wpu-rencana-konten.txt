@@ -2,9 +2,9 @@ Rencana Konten Saya
 - Mempelajari framework symfony 
   *mempelajari secara detail
   *mempelajari CRUD nya
-- Mempelajari javascript
-  *Angular
-  *react
-- Mempelajari Laravel  
+ -Mempelajari javascript
+  *mempelajari vue
+  *mempelajari react
+- Mempelajari python programming  
 - interview
 - Vlogs
