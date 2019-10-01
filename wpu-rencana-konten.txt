@@ -4,6 +4,7 @@ Rencana Konten Saya
   *mempelajari CRUD nya
  -Mempelajari javascript
   *mempelajari vue
+  *mempelajari react
 - Mempelajari python programming  
 - interview
 - Vlogs
