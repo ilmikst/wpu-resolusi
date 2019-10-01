@@ -1,4 +1,6 @@
 Rencana Konten Saya
-- Mempelajari framework symfony
+- Mempelajari framework symfony 
+  *mempelajari secara detail
+  *mempelajari CRUD nya
 - interview
 - Vlogs
