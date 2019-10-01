@@ -1,0 +1,4 @@
+Rencana Konten Saya
+- Mempelajari framework symfony
+- interview
+- Vlogs
